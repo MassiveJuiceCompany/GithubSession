@@ -1,0 +1,6 @@
+Today, I learned there is something called Git
+which is a verssion control to help contro the updates of project with frens 
+life uprade :(    
+
+
+Fix
